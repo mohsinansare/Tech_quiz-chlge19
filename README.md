@@ -108,7 +108,7 @@ For any questions, please contact me with the information below:
 
 GitHub: (https://github.com/mohsinansare/Tech_quiz-chlge19)
 
-Email: doc72789@gmail.com
+Email: mohsinansare@gmail.com
 
 ____________________________________
 © 2025 Pink727. All Rights Reserved.
