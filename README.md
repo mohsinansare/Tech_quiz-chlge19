@@ -106,7 +106,7 @@ Base files were provided by © 2024 edX Boot Camps
 
 For any questions, please contact me with the information below:
 
-GitHub: [https://github.com/mohsinansare](https://github.com/mohsinansare/Tech_quiz-chlge19)
+GitHub: [mohsinansare](https://github.com/mohsinansare/Tech_quiz-chlge19)
 
 Email: doc72789@gmail.com
 
