@@ -74,7 +74,7 @@ The tests are located in the `cypress` directory:
 
 ## Walkthrough Video
 
-[Watch the Walkthrough Video](C:\Users\HP\OneDrive\Documents\Zoom\2025-05-20-00.53.32-Mohsin-Ansari 's-Zoom-Meetingtechquizupdatevid)
+[Watch the Walkthrough Video](https://studio.youtube.com/video/749XX6KIblw/edit)
 
 
 ## Features
@@ -106,7 +106,7 @@ Base files were provided by © 2024 edX Boot Camps
 
 For any questions, please contact me with the information below:
 
-GitHub: [Pink727](https://github.com/pink727)
+GitHub: [https://github.com/mohsinansare](https://github.com/mohsinansare/Tech_quiz-chlge19)
 
 Email: doc72789@gmail.com
 
