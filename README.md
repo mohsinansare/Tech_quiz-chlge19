@@ -74,7 +74,7 @@ The tests are located in the `cypress` directory:
 
 ## Walkthrough Video
 
-[Watch the Walkthrough Video](techquizupdatevid)
+[Watch the Walkthrough Video](C:\Users\HP\OneDrive\Documents\Zoom\2025-05-20-00.53.32-Mohsin-Ansari's-Zoom-Meetingtechquizupdatevid)
 
 
 ## Features
