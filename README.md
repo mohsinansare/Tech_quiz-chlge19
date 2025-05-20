@@ -23,7 +23,7 @@ The Tech Quiz Test Suite is a web application that allows users to take a tech q
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pink727/tech-quiz-test-suite.git
+   git clone https://github.com/mohsinansare/Tech_quiz-chlge19.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -32,12 +32,15 @@ The Tech Quiz Test Suite is a web application that allows users to take a tech q
 3. Install the dependencies:
    ```bash
    npm install
+   npm run build
+   npm start in 1st terminal so that localhost:3001 will be running in the backend.
    ```
 
 ## Usage
 
-1. Start the development server:
+1. Start the development server in 2nd terminal:
    ```bash
+   npm run build
    npm run start:dev
    ```
 2. Open your browser and navigate to `http://localhost:3000`.
@@ -46,12 +49,12 @@ The Tech Quiz Test Suite is a web application that allows users to take a tech q
 
 This project uses Cypress for both component and end-to-end testing. To run the tests, follow these steps:
 
-1. Open a terminal and navigate to the project directory.
+1. Open a terminal and navigate to the project directory in a third terminal:
 2. Run the Cypress tests:
    ```bash
    npm run test
    ```
-3. To open the Cypress Test Runner for interactive testing:
+3. To open the Cypress Test Runner for interactive testing in fourth terminal:
    ```bash
    npm run cypress:open
    ```
@@ -71,7 +74,7 @@ The tests are located in the `cypress` directory:
 
 ## Walkthrough Video
 
-[Watch the Walkthrough Video](https://www.youtube.com/watch?v=s1wiUKYsbw4)
+[Watch the Walkthrough Video](techquizupdatevid)
 
 
 ## Features
